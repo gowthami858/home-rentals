@@ -1,0 +1,7 @@
+echo "# home-rentals" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gowthami858/home-rentals.git
+git push -u origin main
